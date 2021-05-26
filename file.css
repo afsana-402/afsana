@@ -1,0 +1,23 @@
+body{
+                background-image: url("../image/nature5.jpg");
+                background-size: cover;
+            }
+            .center .avatar img{
+                border-radius: 45%;
+                width: 170px;
+                height:190px;
+                margin-top: 5%;
+                object-fit: fill;
+                object-position: 0-8px;
+            }
+            .center{
+                font-style: italic;
+            }
+            .content{
+                font-size: 60px;
+                color: white;
+            }
+            .data{
+                font-size: 40px;
+                color: white;
+            }
